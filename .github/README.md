@@ -1,27 +1,27 @@
 ━━━━━━━━━━━━━━━━━━━
-### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
+### 🌷ҡαɳเรɦ ɱαɳαɠɱεɳƭ🌷
 
 <!--
-**THE-VIP-BOY-OP/VIP-ROBOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CoderXKrishna/Kanish_Managment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/CoderXKrishna/count.svg" />
 </p>
 
 
 
 
 <h2 align="center">
-    𝄟🌹𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧🌹​​​​​𝄟​​​​​
+    𝄟🌹ҡαɳเรɦ ɱαɳαɠɱεɳƭ🌹​​​​​𝄟​​​​​
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/d874fc40ddf9ead0cad6b.jpg">
+  <img src="https://telegra.ph/file/e96afa43e300cd6a952cd.jpg">
 </p>
 
-ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐ❥𝗩𝗜𝗣🍷𝗥𝗢𝗕𝗢𝗧𝄟⃟🥀](https://t.me/THE_VIP_ROBOT)
+ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [𝄟ॐҡαɳเรɦ ɱαɳαɠɱεɳƭ🥀](https://t.me/Mrs_And_Mr_Hitler)
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -34,10 +34,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
-- [![YouTube Video Views](https://img.shields.io/youtube/views/MF1nsTAN_Ns?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/MF1nsTAN_Ns)
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/CoderXKrishna/Kanish_Management"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
@@ -46,10 +43,10 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/LOVERS_DUNIA"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Mrs_And_Mr_Hitler"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/VIP_CREATORS"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Mrs_And_Mr_Hitler"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
